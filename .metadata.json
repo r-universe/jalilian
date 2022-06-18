@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ETAS",
+    "oncran": true
+  },
+  {
+    "package": "jalcal",
+    "oncran": true
+  }
+]
