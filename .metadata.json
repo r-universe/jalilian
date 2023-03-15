@@ -1,10 +1,10 @@
 [
   {
-    "package": "jalcal",
+    "package": "ETAS",
     "oncran": true
   },
   {
-    "package": "ETAS",
+    "package": "jalcal",
     "oncran": true
   }
 ]
